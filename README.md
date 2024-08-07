@@ -1,6 +1,7 @@
 
 # 💫 Hello, I´m Joche!
-### 🧑‍💻 Computer Science student at ITCR | Instituto Tecnológico de Costa Rica<br/><br>💭 Currently learning about machine learning and probabilistic methods for uncertain reasoning<br><br>
+🧑‍💻 Computer Science student at ITCR | Instituto Tecnológico de Costa Rica<br/> 
+💭 Currently learning about machine learning and neural networks<br/>
 
 
 # 💻 Tech Stack:
