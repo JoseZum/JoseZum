@@ -1,5 +1,5 @@
-# 💫 About Me:
-I´m a Computer Science student<br>
+# Sup, i’m Jose
+I´m a CS Student @ TEC <br> 
 
 
 ### 🖥️ Lenguajes de Programación
