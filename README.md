@@ -1,5 +1,5 @@
 # Sup, i’m Jose
-I´m a CS Student @ TEC <br> 
+CS @ TEC - building cloud, data & ai stuff <br> 
 
 
 ### 🖥️ Lenguajes de Programación
