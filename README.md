@@ -1,58 +1,87 @@
-# Sup, i’m Jose
-CS @ TEC - building cloud, data & ai stuff <br> 
+# sup, i'm Jose
 
+CS @ [TEC](https://www.tec.ac.cr/) — I build things somewhere between backend, data, cloud and AI.
 
-### 🖥️ Lenguajes de Programación
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+Lately: distributed-ish systems, observability, MLOps, and figuring out how much infrastructure a project actually needs.
 
----
+[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-fabi%C3%A1n-zumbado-ruiz-4ba737368/) · [Email](mailto:josezumbru@gmail.com)
 
-### ⚙️ Backend & API
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+## selected work
 
----
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/JoseZum/sistema-electoral-backend">
+    <img src="https://raw.githubusercontent.com/JoseZum/sistema-electoral-frontend/main/public/logo-frontend.png" alt="TEE Voting System" width="320">
+  </a>
+  <br><br>
+  <strong>TEE Voting System</strong>
+  <br><br>
+  Institutional voting platform for TEC. I led the project and worked across identity, eligibility, anonymous ballots, custody-gated scrutiny, audit trails, observability, and the full CI/security pipeline.
+  <br><br>
+  <code>TypeScript</code> <code>Next.js</code> <code>Express</code> <code>PostgreSQL</code> <code>OpenTelemetry</code>
+  <br><br>
+  <a href="https://github.com/JoseZum/sistema-electoral-frontend">frontend</a> ·
+  <a href="https://github.com/JoseZum/sistema-electoral-backend">backend</a>
+</td>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/JoseZum/ExoMamba">
+    <img src="https://raw.githubusercontent.com/JoseZum/ExoMamba/main/public/exomamba-logo.png" alt="ExoMamba" width="320">
+  </a>
+  <br><br>
+  <strong>ExoMamba</strong>
+  <br><br>
+  Research project using selective state-space models to classify exoplanet signals in full 18,000-cadence TESS light curves. Includes reproducible baselines, statistical tests, ablations, and a five-seed ensemble.
+  <br><br>
+  <code>Python</code> <code>PyTorch</code> <code>Mamba</code> <code>TESS</code>
+  <br><br>
+  <a href="https://github.com/JoseZum/ExoMamba">repository</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/JoseZum/ufc-picks">
+    <img src="https://raw.githubusercontent.com/JoseZum/ufc-picks-frontend/main/public/ufcfrontend-logo.png" alt="UFC Picks" width="320">
+  </a>
+  <br><br>
+  <strong>UFC Picks</strong>
+  <br><br>
+  Fight-night prediction platform with automated ESPN ingestion, section-aware pick locking, scoring, stats, and leaderboards. The scraper keeps cards, results, timings, and media in sync.
+  <br><br>
+  <code>Next.js</code> <code>FastAPI</code> <code>MongoDB</code> <code>Scrapy</code> <code>AWS</code>
+  <br><br>
+  <a href="https://github.com/JoseZum/ufc-picks-frontend">web</a> ·
+  <a href="https://github.com/JoseZum/ufc-picks-backend">api</a> ·
+  <a href="https://github.com/JoseZum/ufc-picks-scraper">pipeline</a>
+</td>
+<td width="50%" valign="top" align="center">
+  <a href="https://github.com/JoseZum/album-bot">
+    <img src="https://raw.githubusercontent.com/JoseZum/album-bot/main/public/logo.png" alt="Album Bot" width="320">
+  </a>
+  <br><br>
+  <strong>Album Bot</strong>
+  <br><br>
+  Telegram platform for tracking the 2026 World Cup sticker album: collection progress, missing and duplicate stickers, shared albums, friends, and coordinated trades.
+  <br><br>
+  <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Telegram API</code>
+  <br><br>
+  <a href="https://github.com/JoseZum/album-bot">repository</a> ·
+  <a href="https://t.me/WCAPaniniBot">try the bot</a>
+</td>
+</tr>
+</table>
 
-### 💻 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Qt](https://img.shields.io/badge/Qt-%2331C48D.svg?style=for-the-badge&logo=qt&logoColor=white)
+## more things i've built
 
----
+- [bilo](https://github.com/JoseZum/bilo-backend) — a modular backend prototype for the rental journey: discovery, matches, leases, payments, disputes, and trust.
+- [Restaurant Data Platform](https://github.com/JoseZum/restaurantes-olap) — Spark + Airflow ETL, a Hive/Parquet warehouse, Superset dashboards, and graph-based delivery routing with Neo4j.
+- [Pokédex](https://github.com/JoseZum/pokedex) — a small FastAPI adapter and React client with normalized DTOs, caching, and clean failure handling.
+- [Bank Insight Engine](https://github.com/JoseZum/bank-insight-engine) — campaign analytics and financial product recommendations built around an ETL workflow.
 
-### 🧠 Machine Learning / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+## the stuff I actually use
 
+**Languages:** Python · TypeScript · SQL
 
----
+**Building:** FastAPI · Node.js · Express · Next.js · React · PostgreSQL · MongoDB · PyTorch
 
-### 🗃️ Bases de Datos
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-### 🔧 Herramientas & Control de Versiones
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
+**Data & infra:** Docker · Kubernetes · GitHub Actions · AWS · Spark · Airflow · OpenTelemetry · Grafana
