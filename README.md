@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Jose 👋
+# José Fabián Zumbado
 
 CS @ <a href="https://www.tec.ac.cr/">TEC</a> — I build things somewhere between backend, data, cloud and AI.
 
@@ -20,7 +20,7 @@ Lately: distributed-ish systems, observability, MLOps, and figuring out how much
 <tr>
 <td width="50%" valign="top" align="center">
   <a href="https://github.com/JoseZum/sistema-electoral-backend">
-    <img src="images/voteelogo.png" alt="TEE Voting System" width="320">
+    <img src="images/voteelogo.png" alt="TEE Voting System" width="320" height="120">
   </a>
   <br><br>
   <strong>TEE Voting System</strong>
@@ -36,9 +36,10 @@ Lately: distributed-ish systems, observability, MLOps, and figuring out how much
   <a href="https://github.com/JoseZum/sistema-electoral-frontend"><img src="https://img.shields.io/badge/frontend-repo-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="frontend repo"></a>
   <a href="https://github.com/JoseZum/sistema-electoral-backend"><img src="https://img.shields.io/badge/backend-repo-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="backend repo"></a>
 </td>
+
 <td width="50%" valign="top" align="center">
   <a href="https://github.com/JoseZum/ExoMamba">
-    <img src="https://raw.githubusercontent.com/JoseZum/ExoMamba/main/public/exomamba-logo.png" alt="ExoMamba" width="320">
+    <img src="https://raw.githubusercontent.com/JoseZum/ExoMamba/main/public/exomamba-logo.png" alt="ExoMamba" width="320" height="120">
   </a>
   <br><br>
   <strong>ExoMamba</strong>
@@ -53,10 +54,11 @@ Lately: distributed-ish systems, observability, MLOps, and figuring out how much
   <a href="https://github.com/JoseZum/ExoMamba"><img src="https://img.shields.io/badge/repository-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="repository"></a>
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top" align="center">
   <a href="https://ufcpicks.vercel.app">
-    <img src="images/ufcpicks-logo.png" alt="UFC Picks" width="320">
+    <img src="images/ufcpicks-logo.png" alt="UFC Picks" width="320" height="120">
   </a>
   <br><br>
   <strong>UFC Picks</strong>
@@ -75,9 +77,10 @@ Lately: distributed-ish systems, observability, MLOps, and figuring out how much
   <a href="https://github.com/JoseZum/ufc-picks-backend"><img src="https://img.shields.io/badge/api-repo-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="api repo"></a>
   <a href="https://github.com/JoseZum/ufc-picks-scraper"><img src="https://img.shields.io/badge/pipeline-repo-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="pipeline repo"></a>
 </td>
+
 <td width="50%" valign="top" align="center">
   <a href="https://github.com/JoseZum/album-bot">
-    <img src="https://raw.githubusercontent.com/JoseZum/album-bot/main/public/logo.png" alt="Album Bot" width="320">
+    <img src="https://raw.githubusercontent.com/JoseZum/album-bot/main/public/logo.png" alt="Album Bot" width="320" height="120">
   </a>
   <br><br>
   <strong>Album Bot</strong>
