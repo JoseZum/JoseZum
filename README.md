@@ -58,7 +58,7 @@ Lately: distributed-ish systems, observability, MLOps, and figuring out how much
 <tr>
 <td width="50%" valign="top" align="center">
   <a href="https://ufcpicks.vercel.app">
-    <img src="images/ufcpicks-logo.png" alt="UFC Picks" width="320">
+    <img src="images/ufcpicks-logo.png" alt="UFC Picks">
   </a>
   <br><br>
   <strong>UFC Picks</strong>
