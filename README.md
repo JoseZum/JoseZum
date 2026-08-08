@@ -2,7 +2,7 @@
 
 # José Fabián Zumbado
 
-CS @ <a href="https://www.tec.ac.cr/">TEC</a> — I build things somewhere between backend, data, cloud and AI.
+CS @ <a href="https://www.tec.ac.cr/">TEC</a> - I build things somewhere between backend, data, cloud and AI.
 
 Lately: distributed-ish systems, observability, MLOps, and figuring out how much infrastructure a project actually needs.
 
@@ -14,7 +14,7 @@ Lately: distributed-ish systems, observability, MLOps, and figuring out how much
 
 <br>
 
-## 🚀 Selected work
+## Selected work
 
 <table>
 <tr>
@@ -98,14 +98,14 @@ Lately: distributed-ish systems, observability, MLOps, and figuring out how much
 </tr>
 </table>
 
-## 🧩 More things I've built
+## More things I've built
 
 - **[bilo](https://github.com/JoseZum/bilo-backend)** — a modular backend prototype for the rental journey: discovery, matches, leases, payments, disputes, and trust.
 - **[Restaurant Data Platform](https://github.com/JoseZum/restaurantes-olap)** — Spark + Airflow ETL, a Hive/Parquet warehouse, Superset dashboards, and graph-based delivery routing with Neo4j.
 - **[Pokédex](https://github.com/JoseZum/pokedex)** — a small FastAPI adapter and React client with normalized DTOs, caching, and clean failure handling.
 - **[Bank Insight Engine](https://github.com/JoseZum/bank-insight-engine)** — campaign analytics and financial product recommendations built around an ETL workflow.
 
-## ⚙️ The stuff I actually use
+## The stuff I actually use
 
 **Languages**
 
