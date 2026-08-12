@@ -4,8 +4,6 @@
 
 CS @ <a href="https://www.tec.ac.cr/">TEC</a> - I build things somewhere between backend, data, cloud and AI.
 
-Lately: distributed-ish systems, observability, MLOps, and figuring out how much infrastructure a project actually needs.
-
 <a href="https://www.linkedin.com/in/jos%C3%A9-fabi%C3%A1n-zumbado-ruiz-4ba737368/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:josezumbru@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/JoseZum"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -98,7 +96,7 @@ Lately: distributed-ish systems, observability, MLOps, and figuring out how much
 </tr>
 </table>
 
-## More things I've built
+## More things I've built (mantequilla)
 
 - **[bilo](https://github.com/JoseZum/bilo-backend)** — a modular backend prototype for the rental journey: discovery, matches, leases, payments, disputes, and trust.
 - **[Restaurant Data Platform](https://github.com/JoseZum/restaurantes-olap)** — Spark + Airflow ETL, a Hive/Parquet warehouse, Superset dashboards, and graph-based delivery routing with Neo4j.
